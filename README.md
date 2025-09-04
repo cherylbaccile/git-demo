@@ -3,6 +3,7 @@
 A sample project for demonstrating Git workflows and collaboration.
 
 ## Features
+- Feature 3
 - User authentication
 - Data processing
 - API integration
